@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PreampV1.PrjPcb]
+   Generated File[Preamp-RoundHoles.TXT]
+   Generated File[Preamp-SlotHoles.TXT]
+   Generated File[Preamp.LDP]
+   Generated File[Preamp.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 3:08:33 AM On 11/21/2021

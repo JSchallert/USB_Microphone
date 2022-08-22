@@ -1,0 +1,31 @@
+CHECK	ITEM	SUPPLIER	PRICE	Target Price	Diff
+	Mic capsule - JLI2555 or equivalent	JLI	TBD	13	0
+IP	Transistor		TBD		0
+IP	Rotary Switch	Newark	TBD		0
+IP	Voltage Regulator	Newark	TBD		
+IP	Preamp IC -that1512				
+x	Solder Wick - 2mm	Already got some	0		0
+x	Magnet Wire	Tu	0		0
+IP	Audio cable		TBD		0
+x	Nitrile O-rings	Amazon	TBD		0
+x	Brass sheet metal strip	McMaster	TBD		0
+x	Wet/dry high grit sandpaper	Amazon	3.84		-3.84
+x	Metal polish	Amazon	TBD		0
+x	Brass wire (diameter?)	McMaster	TBD		0
+x	Brass wire mesh, #60	McMaster	TBD		0
+x	3mm Brass Rods	Amazon	TBD		0
+x	Brass Tube	Amazon	TBD		0
+x	Brass Rod (matching above)	Amazon	TBD		0
+-	High Quality bolt	Home Depot	TBD		0
+-	lock nut	Home Depot	TBD		0
+x	Brass standoff	Amazon	12		-12
+-	Wood!	WWSource	TBD		0
+					
+					
+-	Preamp circuit		TBD		0
+-	Preamp circuit DIY		TBD		0
+-	USB Audio Amplifier DIY		TBD		0
+					
+					
+	Decent pliers		TBD		0
+	Knitting stick - 2mm	JoAnn?	TBD		0
